@@ -4,6 +4,6 @@
 - To contact me: smirnovamarisha25@gmail.com 📧
 
 ### My repositories:
-- ```Innopolis_University```: study projects (1-2 studying years). 
+- ```Innopolis_University```: study projects. 
 - ```devops```: DevOps course project. 
 - ```agile_framework```: internship project. 
