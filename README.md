@@ -1,6 +1,6 @@
 ### 👋 Hi, My name is Marina Smirnova!
-- I’m interested in Product Management, Machine Learning and UX Design 👀
-- I’m currently a forth year student in Innopolis University 📚 
+- I've graduated from the Innopolis University in 2022📚
+- Now, I'm working as a technical writer: Ozon Tech ⏩ Cloud.ru. 
 - To contact me: smirnovamarisha25@gmail.com 📧
 
 ### My repositories:
